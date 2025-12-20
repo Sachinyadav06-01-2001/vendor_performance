@@ -116,3 +116,6 @@ business-focused insights.
 ---
 
 ## 📁 Project Structure
+
+## Note: Full sales and purchase pricing datasets exceed GitHub size limits, so representative sample files are included.
+
